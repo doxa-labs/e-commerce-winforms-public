@@ -22,7 +22,7 @@ namespace N11Category
             {
                 loginPanel.Visible = false;
                 menuPanel.Visible = true;
-                this.Text = "Menu - Products";
+                this.Text = "Menu";
             }
             else
             {
@@ -38,13 +38,13 @@ namespace N11Category
 
         private void BtnN11_Click(object sender, System.EventArgs e)
         {
-            var n11Form = new Form1(true);
+            Form1 n11Form = new Form1(true);
             n11Form.Show();
         }
 
         private void BtnGG_Click(object sender, System.EventArgs e)
         {
-            var ggForm = new GGForm(true);
+            GGForm ggForm = new GGForm(true);
             ggForm.Show();
         }
 
