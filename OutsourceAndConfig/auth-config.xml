@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<auth-params>
+  <api-key>your-api-key</api-key>
+  <secret-key>your-secret-key</secret-key>
+  <role-name>your-role-name</role-name>
+  <role-pass>your-role-pass</role-pass>
+</auth-params>

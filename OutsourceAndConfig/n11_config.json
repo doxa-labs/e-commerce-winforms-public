@@ -1,0 +1,9 @@
+{
+    "server": "serverr",
+    "port": "3306",
+    "databaseName": "db-name",
+    "tableAttributes": "attribute-table-name",
+    "tableCategories": "category-to-attr-name",
+    "username": "username",
+    "password": "password"
+}

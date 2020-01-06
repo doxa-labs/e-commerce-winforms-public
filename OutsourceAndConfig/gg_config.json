@@ -1,0 +1,9 @@
+{
+    "server": "server-address",
+    "port": "3306",
+    "databaseName": "db-name",
+    "productTable": "table-name",
+    "ggProductTable": "gittigidiyor-table-name",
+    "username": "username",
+    "password": "password"
+}
